@@ -10,7 +10,7 @@ redirect_from:
 
 {% if site.author.googlescholar %}
   <div class="wordwrap" style="margin-bottom: 25px; padding: 12px 16px; background-color: #f8f9fa; border-left: 4px solid #0366d6; border-radius: 4px;">
-    Our team has published 100+ papers in top-tier international journals and conferences, including over 40 IEEE/ACM Transactions articles. For our complete publication record, please visit <a href="{{site.author.googlescholar}}" target="_blank"><strong>Prof. Jinghui Zhong's Google Scholar Profile</strong></a>.
+    Our team has published 150+ papers in top-tier international journals and conferences, including over 40 IEEE/ACM Transactions articles. For our complete publication record, please visit <a href="{{site.author.googlescholar}}" target="_blank"><strong>Prof. Jinghui Zhong's Google Scholar Profile</strong></a>.
   </div>
 {% endif %}
 
