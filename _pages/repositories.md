@@ -33,4 +33,4 @@ Project for *LawMind: A Law-Driven Framework for Autonomous Discovery of PDE Sol
 
 Project for *TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling*. It validates semantic specifications, mathematical formulations, and solver code derived from natural-language problem descriptions.
 
-**Release status:** The public repository currently contains project documentation; the README states that the implementation and reproduction resources will be released later.
+**Release status:** The public repository currently contains project documentation. Implementation and reproduction resources have not yet been published.
