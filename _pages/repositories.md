@@ -18,7 +18,7 @@ C++ implementation and symbolic regression datasets for *Self-Learning Gene Expr
 
 ### [GP and Its Applications](https://github.com/SCUT-EIPI/GP-and-its-applications)
 
-Companion code and learning materials for Jinghui Zhong’s Chinese-language book *遗传编程算法及其应用* (*Genetic Programming Algorithms and Their Applications*).
+Companion code and learning materials for Jinghui Zhong’s Chinese-language book *遗传编程算法及其应用* (*Genetic Programming Algorithms and Their Applications*), published by **Science Press in 2026**.
 
 - **Topics:** Tree and linear genetic programming, gene expression programming, grammatical evolution, symbolic regression, classification, and neural symbolic methods.
 - **Resources:** Chapter examples, datasets, Jupyter notebooks, and CUDA, OpenMP, and MPI implementations. See the repository for chapter-specific setup instructions and book information.

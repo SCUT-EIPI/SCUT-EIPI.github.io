@@ -12,7 +12,7 @@
 - Competition honors: the owner supplied award certificates and explicitly confirmed **four international competition championships**, with **eight tracks in one of the competitions**. Public copy uses four championships and describes the eight tracks separately; it does not count tracks as additional championships or assert wins in all eight tracks.
 - The owner also supplied an IEEE TETCI award certificate, confirming the award. Public pages state honors directly; source attribution is retained here for maintenance rather than attached to each public statement.
 - The **85+ members** figure and the claim that the TETCI award was the journal’s single annual award remain omitted pending confirmation.
-- Book: the [companion repository](https://github.com/SCUT-EIPI/GP-and-its-applications) identifies the Chinese title as *遗传编程算法及其应用*. Public copy keeps the original title with an English translation and links to the book information; it does not assert independently confirmed publication availability.
+- Book: the owner explicitly confirmed that *遗传编程算法及其应用* has already been published. Public copy lists Jinghui Zhong, Science Press, Beijing, 2026, consistent with the [companion repository](https://github.com/SCUT-EIPI/GP-and-its-applications), and retains the Chinese title with an English translation.
 - [LawMind](https://github.com/SCUT-EIPI/LawMind) and [TriVAL](https://github.com/SCUT-EIPI/TriVAL): the public default branches contained only `.gitignore`, `LICENSE`, and `README.md` at audit time. They are described as documented projects with implementation files not yet released.
 
 ## Removed misattributions

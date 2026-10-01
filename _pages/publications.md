@@ -7,6 +7,10 @@ author_profile: true
 
 Selected publications by Prof. Jinghui Zhong and collaborators are listed below. His publication record includes more than 150 journal and conference papers. For the full list and current citation metrics, visit his [Google Scholar profile]({{ site.author.googlescholar }}).
 
+## Book
+
+- Jinghui Zhong. ***遗传编程算法及其应用*** (*Genetic Programming Algorithms and Their Applications*, in Chinese). Beijing: **Science Press, 2026**. [Companion code and learning resources](https://github.com/SCUT-EIPI/GP-and-its-applications).
+
 ## Survey & Perspective Papers
 
 - Junlan Dong, Jinghui Zhong. [**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634). *ACM Computing Surveys*, 57(11): 1–37, 2025.
