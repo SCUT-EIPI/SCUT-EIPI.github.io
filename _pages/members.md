@@ -9,12 +9,6 @@ redirect_from:
   - /html/
 ---
 
-<div align="center">    
-  <img src="/images/scut.jpg" style="width: 100%; max-width: 650px; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" alt="South China University of Technology" />
-</div>
-
-<br>
-
 <!-- Advisor -->
 <h2>Advisor</h2>
 
