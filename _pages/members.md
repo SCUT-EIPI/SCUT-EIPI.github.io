@@ -13,7 +13,7 @@ redirect_from:
 <h2>Advisor</h2>
 
 <div class="profile-container">
-  <img src="/images/logo.png" alt="Prof. Jinghui Zhong" class="profile-img">
+  <img src="/images/zhong-jinghui.jpg" alt="Prof. Jinghui Zhong" class="profile-img">
   <div class="profile-content">
     <strong><a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ" target="_blank">Prof. Jinghui Zhong (钟竞辉)</a></strong> is a Full Professor and Doctoral Supervisor at the School of Computer Science and Engineering, South China University of Technology (SCUT). He was selected as a Young Top-notch Scholar under Guangdong's High-Level Talent Program and has been consistently ranked among Stanford's World's Top 2% Scientists.
     <br><br>
@@ -64,12 +64,11 @@ redirect_from:
 .profile-img {
   width: 160px;
   height: 160px;
-  object-fit: contain;
+  object-fit: cover;
   flex-shrink: 0;
   border-radius: 8px;
-  background: #ffffff;
-  padding: 8px;
   border: 1px solid #d0d7de;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
 }
 
 .profile-content {
