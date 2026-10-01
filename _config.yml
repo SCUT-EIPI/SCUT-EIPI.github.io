@@ -13,9 +13,9 @@ title                    : "EIPI Lab"
 title_separator          : "-"
 name                     : &name "EIPI Lab"
 description              : &description "Research team on Evolutionary Computation, Symbolic Regression, AI for Science and Intelligent Optimization"
-url                      : https://scut-epii.github.io
+url                      : https://scut-eipi.github.io
 baseurl                  : ""
-repository               : "SCUT-EPII/SCUT-EPII.github.io"
+repository               : "SCUT-EIPI/SCUT-EIPI.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
@@ -25,7 +25,7 @@ author:
   bio              : "Evolutionary Intelligence for Science and Engineering"
   location         : "Guangzhou, Guangdong, China"
   employer         : "South China University of Technology"
-  uri              : "https://scut-epii.github.io"
+  uri              : "https://scut-eipi.github.io"
   email            : "jinghuizhong@scut.edu.cn" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "SCUT-EPII"
+  github           : "SCUT-EIPI"
   kaggle           : 
   stackoverflow    : 
 

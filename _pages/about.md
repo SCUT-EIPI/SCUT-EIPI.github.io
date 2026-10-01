@@ -20,9 +20,9 @@ As an academic and research-oriented team, we aim to pioneer the synergy of **Ev
 ### 🚀 Some useful resources we prepared for you
 
 1. **Published Works:** For our peer-reviewed research, we have curated our flagship and highly-cited publications in top-tier IEEE/ACM Transactions and premier conferences on our [**Publications**](/publications/) page.
-2. **Open-Source Code & Benchmarks:** To facilitate reproducibility and practical deployment, we have open-sourced detailed implementations in [**EIPI's Repositories**](/repositories/) and our [**GitHub Organization**](https://github.com/SCUT-EPII).
+2. **Open-Source Code & Benchmarks:** To facilitate reproducibility and practical deployment, we have open-sourced detailed implementations in [**EIPI's Repositories**](/repositories/) and our [**GitHub Organization**](https://github.com/SCUT-EIPI).
 3. **Team & Academic Advising:** To learn about our advisor, research members, and collaborative opportunities, please visit our [**Members**](/members/) page.
-4. **Genetic Programming & Symbolic AI:** To explore genetic programming benchmarks and symbolic reasoning implementations, check our [**GP-and-its-applications**](https://github.com/SCUT-EPII/GP-and-its-applications) benchmark suite.
+4. **Genetic Programming & Symbolic AI:** To explore genetic programming benchmarks and symbolic reasoning implementations, check our [**GP-and-its-applications**](https://github.com/SCUT-EIPI/GP-and-its-applications) benchmark suite.
 
 ---
 
@@ -46,5 +46,5 @@ We warmly welcome academic discussions, research collaborations, and inquiries f
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visitors-Welcome-blue?style=flat-square&logo=github" alt="Visitor Badge">
-  <a href="https://github.com/SCUT-EPII"><img src="https://img.shields.io/github/stars/SCUT-EPII?style=flat-square&logo=github" alt="GitHub Stars"></a>
+  <a href="https://github.com/SCUT-EIPI"><img src="https://img.shields.io/github/stars/SCUT-EIPI?style=flat-square&logo=github" alt="GitHub Stars"></a>
 </div>
