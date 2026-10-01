@@ -8,9 +8,17 @@ redirect_from:
   - /awards.html
 ---
 
-## IEEE TETCI Outstanding Paper Award
+## Awards of the Group Lead
 
-Prof. Jinghui Zhong and his coauthors received the **IEEE Transactions on Emerging Topics in Computational Intelligence Outstanding Paper Award** for:
+Prof. Jinghui Zhong’s awards include:
+
+- **Outstanding Industry-Academia Collaboration Case** — KylinSoft, **2024**.
+- **IEEE TETCI Outstanding Paper Award** — IEEE Computational Intelligence Society (IEEE CIS), **2023**.
+- **Natural Science Award (First Class)** — Ministry of Education, **2010**.
+
+## Award-Winning Paper
+
+Prof. Jinghui Zhong and his coauthors received the **2023 IEEE Transactions on Emerging Topics in Computational Intelligence Outstanding Paper Award** for:
 
 > Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang. [An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020.
 
