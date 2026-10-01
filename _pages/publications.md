@@ -14,7 +14,7 @@ redirect_from:
 
 ## Academic Monograph
 
-- Jinghui Zhong. ***Genetic Programming Algorithms and Its Applications*** (《遗传编程算法及其应用》). Science Press (科学出版社), Beijing, 2026.  
+- Jinghui Zhong. ***Genetic Programming Algorithms and Applications***. Science Press, Beijing, 2026.  
   [[Companion Code & Benchmarks](https://github.com/SCUT-EIPI/GP-and-its-applications)]
 
 ---

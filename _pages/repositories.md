@@ -28,6 +28,6 @@ Official source code implementation and benchmark suite for **SL-GEP (Self-Learn
 Official companion codebase, hands-on Jupyter Notebook tutorials, and benchmark datasets for the academic monograph *Genetic Programming Algorithms and Applications* (Science Press, 2026).
 
 - **Language:** Python, Jupyter Notebook
-- **Reference Book:** Jinghui Zhong. *Genetic Programming Algorithms and Its Applications* (《遗传编程算法及其应用》), Science Press (科学出版社), Beijing, 2026.
+- **Reference Book:** Jinghui Zhong. *Genetic Programming Algorithms and Applications*, Science Press, Beijing, 2026.
 - **Key Features:** Implementations of Tree Genetic Programming (SGP), Linear Genetic Programming (LGP), Gene Expression Programming (GEP), and Multiform GP frameworks, complete with step-by-step tutorial notebooks from data to formula discovery.
 - **Repository:** [`https://github.com/SCUT-EIPI/GP-and-its-applications`](https://github.com/SCUT-EIPI/GP-and-its-applications)
