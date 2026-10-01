@@ -1,7 +1,10 @@
-# Main navigation menu
+# Navigation menu matching MetaEvo structure
 main:
-  - title: "About Us"
-    url: /
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Repositories"
+    url: /repositories/
+
+  - title: "Members"
+    url: /members/

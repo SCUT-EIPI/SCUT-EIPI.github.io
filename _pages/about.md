@@ -13,33 +13,25 @@ redirect_from:
 
 <br>
 
-## Welcome to EIPI Lab
+We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT). Our team is composed of energetic postdoctoral researchers, Ph.D. students, master's students, and undergraduate scholars, advised by [**Prof. Jinghui Zhong (钟竞辉)**](https://jinghuizhong.com/).
 
-We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/).
+As an academic and research-oriented team, we aim to pioneer the synergy of **Evolutionary Computation**, **Machine Learning**, **Large Language Models**, and **Domain Knowledge**. Our core mission is to discover interpretable governing laws from scientific observations, uncover analytical mathematical models, and solve complex, large-scale optimization and decision-making problems in science and engineering.
 
-Our group brings together postdoctoral researchers, Ph.D. students, master's students, and undergraduate scholars. We focus on bridging evolutionary search, machine learning, foundation models, and domain knowledge to discover interpretable governing laws from scientific data and solve complex, large-scale engineering optimization challenges.
+### 🚀 Some useful resources we prepared for you
 
-### 🔗 Quick Links
-- **Advisor Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
-- **Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
-- **Google Scholar:** [Prof. Jinghui Zhong's Citations (4,500+ citations)](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
-- **GitHub Organization:** [SCUT-EPII (EIPI Lab)](https://github.com/SCUT-EPII)
+1. **Published Works:** For our peer-reviewed research, we have curated our flagship and highly-cited publications in top-tier IEEE/ACM Transactions and premier conferences on our [**Publications**](/publications/) page.
+2. **Open-Source Code & Benchmarks:** To facilitate reproducibility and practical deployment, we have open-sourced detailed implementations in [**EIPI's Repositories**](/repositories/) and our [**GitHub Organization**](https://github.com/SCUT-EPII).
+3. **Team & Academic Advising:** To learn about our advisor, research members, and collaborative opportunities, please visit our [**Members**](/members/) page.
+4. **Genetic Programming & Symbolic AI:** To explore genetic programming benchmarks and symbolic reasoning implementations, check our [**GP-and-its-applications**](https://github.com/SCUT-EPII/GP-and-its-applications) benchmark suite.
 
 ---
 
 ## 🔬 Research Directions
 
-- **Evolutionary Computation & Intelligent Optimization:** Genetic programming (GP), gene expression programming (GEP), evolutionary transfer and multitask optimization (MTO), and automated heuristic design.
-- **Symbolic Regression & AI for Science:** Discovering interpretable physical laws, governing differential equations, mathematical conjectures, and analytical formulas directly from scientific observations.
-- **Large Language Models & Multimodal Intelligence:** Foundation models, reasoning frameworks, and their synergistic integration with search and optimization algorithms.
-- **Learning & Modeling for Complex Engineering Systems:** Reinforcement learning, agent-based modeling, and heuristic optimization for intelligent transportation, sensor networks, and crowd safety management.
-
----
-
-## 🌍 Open-Source Projects
-
-- [**GP-and-its-applications**](https://github.com/SCUT-EPII/GP-and-its-applications): Open-source implementations, benchmarks, and tutorials for Genetic Programming and symbolic reasoning.
-- [**Self-learning-Gene-Expression-Programming**](https://github.com/SCUT-EPII/Self-learning-Gene-Expression-Programming): Official open-source codebase for Self-Learning Gene Expression Programming (SL-GEP) in adaptive function discovery.
+- **Evolutionary Computation & Intelligent Optimization:** Genetic programming (GP), gene expression programming (GEP), evolutionary multitask and transfer optimization (MTO), and automated algorithm configuration.
+- **Symbolic Regression & AI for Science:** Discovering interpretable physical laws, governing differential equations, recursive mathematical conjectures, and closed-form analytical solutions from observational data.
+- **Large Language Models & Multimodal Intelligence:** Foundation models, reasoning frameworks, and their synergistic integration with search and combinatorial optimization.
+- **Learning & Modeling for Complex Engineering Systems:** Reinforcement learning, agent-based modeling, and heuristic optimization for intelligent transportation, wireless sensor networks, and crowd safety management.
 
 ---
 
@@ -49,3 +41,10 @@ We warmly welcome academic discussions, research collaborations, and inquiries f
 
 - **Advisor:** Prof. Jinghui Zhong — [jinghuizhong@scut.edu.cn](mailto:jinghuizhong@scut.edu.cn)
 - **Location:** School of Computer Science and Engineering, South China University of Technology, Higher Education Mega Center, Guangzhou, China
+
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visitors-Welcome-blue?style=flat-square&logo=github" alt="Visitor Badge">
+  <a href="https://github.com/SCUT-EPII"><img src="https://img.shields.io/github/stars/SCUT-EPII?style=flat-square&logo=github" alt="GitHub Stars"></a>
+</div>
