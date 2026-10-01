@@ -18,7 +18,7 @@ The paper develops an adaptive archive-based approach to many-task optimization.
 
 ## International Competition Championships
 
-Our group has won **four international competition championships**. One of these competitions comprised **eight tracks**.
+Our group has won **four international competition championships**.
 
 ## Recognition of the Group Lead
 
