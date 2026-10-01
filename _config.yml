@@ -19,7 +19,7 @@ repository               : "SCUT-EIPI/SCUT-EIPI.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar           : "logo.png"
+  avatar           : "logo.jpg"
   name             : "EIPI Lab"
   pronouns         : 
   bio              : "Evolutionary Intelligence for Science and Engineering"
