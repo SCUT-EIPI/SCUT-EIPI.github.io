@@ -18,7 +18,7 @@ The paper develops an adaptive archive-based approach to many-task optimization.
 
 ## International Competition Championships
 
-Our group has won **four international competition championships**.
+Our group has won **four international competition championships**, including victories in competitions held at the **IEEE World Congress on Computational Intelligence (WCCI)** and the **ACM Genetic and Evolutionary Computation Conference (GECCO)**.
 
 ## Recognition of the Group Lead
 
