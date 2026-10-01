@@ -1,0 +1,26 @@
+# Content audit — 2026-10-01
+
+## Sources and decisions
+
+- Group affiliation: the owner explicitly confirmed that EIPI is a research group directly at South China University of Technology. The organization and website therefore omit the Computational Intelligence Team hierarchy. Prof. Zhong's individual faculty affiliation remains the School of Computer Science and Engineering.
+- Citation count: the owner supplied a Google Scholar screenshot showing 5,883 total citations and requested the rounded public wording **5,800+**. This is a manually maintained snapshot, not a live metric.
+- Career, position, research interests, and top-2% recognition: [SCUT faculty profile](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm).
+- The current publisher-hosted author biography in [this Neurocomputing article](https://www.sciencedirect.com/science/article/pii/S0925231226018837) reports more than 150 papers and more than 40 IEEE/ACM Transactions articles. These counts are attributed to Prof. Zhong, not to the research group.
+- Publication metadata: publisher-deposited [Crossref metadata](https://api.crossref.org/works). The audit snapshot is in `publication-metadata.json`. Use issue publication years rather than the year embedded in the DOI. Corresponding-author asterisks were removed because Crossref does not establish that status.
+- The corrected mobile-sink paper is [10.1109/JAS.2019.1911846](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2019.1911846), not 10.1109/JAS.2019.1911816.
+- Award: [IEEE CIS AdCom minutes](https://cis.ieee.org/images/files/Documents/adcom-minutes/AdCom_Minutes_July_17_2022_hybrid_corrected.pdf) identify Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang and the paper *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*. The minutes label the award 2022, while the SCUT faculty profile labels it 2023. Public copy omits the disputed award year.
+- No independent source was found for the existing **85+ members**, **8 championships**, named competition titles, or the claim that the award was the journal's single annual award. These statements were removed pending documentation.
+- Book: the [companion repository](https://github.com/SCUT-EIPI/GP-and-its-applications) identifies the Chinese title as *遗传编程算法及其应用*. Public copy keeps the original title with an English translation and links to the book information; it does not assert independently confirmed publication availability.
+- [LawMind](https://github.com/SCUT-EIPI/LawMind) and [TriVAL](https://github.com/SCUT-EIPI/TriVAL): the public default branches contained only `.gitignore`, `LICENSE`, and `README.md` at audit time. They are described as documented projects with implementation files not yet released.
+
+## Removed misattributions
+
+The following papers do not list Jinghui Zhong among their authors and were removed from the selected publication list:
+
+- *Improving Generalization of Genetic Programming for Symbolic Regression With Angle-Driven Geometric Semantic Operators*: Qi Chen, Bing Xue, Mengjie Zhang; [author paper](https://staff.fmi.uvt.ro/~daniela.zaharie/ma2019/Projects/ResearchPapers/GeneticProgramming/GeneticProgramming%2BGeometricSemanticOperators_2019.pdf), DOI 10.1109/TEVC.2018.2869621.
+- *Genetic Programming Hyper Heuristic With Elitist Mutation for Integrated Order Batching and Picker Routing Problem*: Yuquan Wang, Naiming Xie, Nanlei Chen, Hui Ma, Gang Chen; DOI 10.1109/TEVC.2025.3532022.
+- *Discrete-Event Systems Modeling and the Model Predictive Allocation Algorithm for Integrated Berth and Quay Crane Allocation*: Rully Tri Cahyono, Engel Jacob Flonk, Bayu Jayawardhana; DOI 10.1109/TITS.2019.2910283.
+
+## Publishing hygiene
+
+Unused template pages (including fictional CVs and generic privacy-policy text) are excluded through `_config.yml`. The template author and CV datasets were replaced with the group identity. Shared `/md/` and `/markdown.html` redirects were removed from the members, publications, and repositories pages to avoid conflicting destinations.

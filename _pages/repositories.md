@@ -3,31 +3,34 @@ layout: archive
 title: "Repositories"
 permalink: /repositories/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-Below are our primary open-source software packages and companion codebases. For all repositories, please visit the [SCUT-EIPI GitHub Organization](https://github.com/SCUT-EIPI).
+Browse our research code and teaching resources below, or visit the [SCUT-EIPI GitHub organization](https://github.com/SCUT-EIPI) for the complete repository list.
 
-## Featured Repositories
+## Code and Learning Resources
 
-### 1. [Self-Learning Gene Expression Programming (SL-GEP)](https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming)
+### [Self-Learning Gene Expression Programming (SL-GEP)](https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming)
 
-Official source code implementation and benchmark suite for **SL-GEP (Self-Learning Gene Expression Programming)**, a classic evolutionary algorithm for symbolic regression and adaptive function discovery.
+C++ implementation and symbolic regression datasets for *Self-Learning Gene Expression Programming*.
 
-- **Language:** C++
-- **Reference Paper:** Jinghui Zhong, Yaochu Jin, and Weiwei Cai, "Self-learning gene expression programming," *IEEE Transactions on Evolutionary Computation*, Vol. 20, No. 1, pp. 65–80, 2016.
-- **Key Features:** High-performance C/C++ engine, standard F0–F3 and Tower benchmark datasets with 10 independent standardized runs, and evaluation metrics.
-- **Repository:** [`https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming`](https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming)
+- **Paper:** Jinghui Zhong, Yew-Soon Ong, and Wentong Cai. [Self-Learning Gene Expression Programming](https://doi.org/10.1109/tevc.2015.2424410). *IEEE Transactions on Evolutionary Computation*, 20(1): 65–80, 2016.
+- **Resources:** Source code and training/test datasets for the F0–F3 and Tower benchmarks.
 
----
+### [GP and Its Applications](https://github.com/SCUT-EIPI/GP-and-its-applications)
 
-### 2. [GP-and-its-applications (Companion Codebook)](https://github.com/SCUT-EIPI/GP-and-its-applications)
+Companion code and learning materials for Jinghui Zhong’s Chinese-language book *遗传编程算法及其应用* (*Genetic Programming Algorithms and Their Applications*).
 
-Official companion codebase, hands-on Jupyter Notebook tutorials, and benchmark datasets for the academic monograph *Genetic Programming Algorithms and Applications* (Science Press, 2026).
+- **Topics:** Tree and linear genetic programming, gene expression programming, grammatical evolution, symbolic regression, classification, and neural symbolic methods.
+- **Resources:** Chapter examples, datasets, Jupyter notebooks, and CUDA, OpenMP, and MPI implementations. See the repository for chapter-specific setup instructions and book information.
 
-- **Language:** Python, Jupyter Notebook
-- **Reference Book:** Jinghui Zhong. *Genetic Programming Algorithms and Applications*, Science Press, Beijing, 2026.
-- **Key Features:** Implementations of Tree Genetic Programming (SGP), Linear Genetic Programming (LGP), Gene Expression Programming (GEP), and Multiform GP frameworks, complete with step-by-step tutorial notebooks from data to formula discovery.
-- **Repository:** [`https://github.com/SCUT-EIPI/GP-and-its-applications`](https://github.com/SCUT-EIPI/GP-and-its-applications)
+### [LawMind](https://github.com/SCUT-EIPI/LawMind)
+
+Project for *LawMind: A Law-Driven Framework for Autonomous Discovery of PDE Solutions*. It focuses on searching for closed-form analytical solutions to partial differential equations using governing equations.
+
+**Release status:** The public repository currently contains project documentation; implementation files have not yet been published.
+
+### [TriVAL](https://github.com/SCUT-EIPI/TriVAL)
+
+Project for *TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling*. It validates semantic specifications, mathematical formulations, and solver code derived from natural-language problem descriptions.
+
+**Release status:** The public repository currently contains project documentation; the README states that the implementation and reproduction resources will be released later.

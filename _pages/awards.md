@@ -3,28 +3,19 @@ layout: archive
 title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /honors/
   - /awards.html
 ---
 
-## Outstanding Paper Awards
+## IEEE TETCI Outstanding Paper Award
 
-- **IEEE TETCI Outstanding Paper Award (2023)**  
-  *IEEE Transactions on Emerging Topics in Computational Intelligence*  
-  **Paper:** *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*  
-  **Authors:** Liang Feng, Jinghui Zhong*, and Kay Chen Tan  
-  **Presented by:** IEEE Computational Intelligence Society (CIS)  
-  **Summary:** Selected as the single annual outstanding paper across the journal for pioneering an adaptive evolutionary framework based on task distribution modeling and online representation learning to suppress negative transfer in multitasking environments.  
-  [[Article Link](https://doi.org/10.1109/tetci.2019.2916051)]
+Prof. Jinghui Zhong and his coauthors received the **IEEE Transactions on Emerging Topics in Computational Intelligence Outstanding Paper Award** for:
 
----
+> Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang. [An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020.
 
-## International Competition Champions
+The paper develops an adaptive archive-based approach to many-task optimization. The award is documented in the [IEEE Computational Intelligence Society AdCom minutes](https://cis.ieee.org/images/files/Documents/adcom-minutes/AdCom_Minutes_July_17_2022_hybrid_corrected.pdf).
 
-Our team has achieved **8 championship titles** in international benchmark and competitive tracks organized by premier computational intelligence conferences:
+## Recognition of the Group Lead
 
-- **IEEE WCCI Competition Champion** (IEEE World Congress on Computational Intelligence)
-- **IEEE CEC Competition Champion** (IEEE Congress on Evolutionary Computation)
-- **ACM GECCO Challenge Winner** (ACM Genetic and Evolutionary Computation Conference)
-- **International Evolutionary Optimization Benchmark Winner**
+Prof. Jinghui Zhong has been included in the **Stanford/Elsevier list of the world’s top 2% of scientists**, as reported in his [SCUT faculty profile](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm).

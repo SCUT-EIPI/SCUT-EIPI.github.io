@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "EIPI Lab"
 title_separator          : "-"
 name                     : &name "EIPI Lab"
-description              : &description "Research team on Evolutionary Computation, Symbolic Regression, AI for Science and Intelligent Optimization"
+description              : &description "Research group at South China University of Technology studying evolutionary computation, symbolic regression, AI for science, and intelligent optimization"
 url                      : https://scut-eipi.github.io
 baseurl                  : ""
 repository               : "SCUT-EIPI/SCUT-EIPI.github.io"
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # This research group site does not publish a blog feed
   path                   : # blank (default) uses feed.xml
 
 
@@ -143,9 +143,11 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Organization
+  name                   : EIPI Lab
+  links:
+    - https://github.com/SCUT-EIPI
+    - https://scut-eipi.github.io/
 
 
 # Analytics
@@ -161,6 +163,29 @@ include:
   - _pages
   - files
 exclude:
+  - AGENTS.md
+  - docs
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
