@@ -17,6 +17,7 @@ As an academic and research-oriented team, we aim to pioneer the synergy of **Ev
 2. **Open-Source Code & Benchmarks:** To facilitate reproducibility and practical deployment, we have open-sourced detailed implementations in [**EIPI's Repositories**](/repositories/) and our [**GitHub Organization**](https://github.com/SCUT-EIPI).
 3. **Team & Academic Advising:** To learn about our advisor, research members, and collaborative opportunities, please visit our [**Members**](/members/) page.
 4. **Genetic Programming & Symbolic AI:** To explore genetic programming benchmarks and symbolic reasoning implementations, check our [**GP-and-its-applications**](https://github.com/SCUT-EIPI/GP-and-its-applications) benchmark suite.
+5. **Awards & Recognition:** To view our national science award, IEEE TETCI Outstanding Paper Award, and international competition championships, please visit our [**Awards & Honors**](/awards/) page.
 
 ---
 

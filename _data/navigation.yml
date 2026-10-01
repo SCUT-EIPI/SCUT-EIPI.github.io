@@ -6,5 +6,8 @@ main:
   - title: "Repositories"
     url: /repositories/
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "Members"
     url: /members/
