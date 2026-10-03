@@ -8,7 +8,7 @@ Website for the Evolutionary Intelligence for Science and Engineering research g
 
 ## Content
 
-The main pages are in `_pages/`: `about.md`, `publications.md`, `repositories.md`, `awards.md`, and `members.md`. Site identity and navigation are configured in `_config.yml` and `_data/navigation.yml`.
+The main pages are in `_pages/`: `about.md` (home), `publications.md`, `research.md`, `awards.md`, `members.md`, and `contact.md`. Site identity and navigation are configured in `_config.yml` and `_data/navigation.yml`.
 
 See [content sources](docs/content-sources.md) for the factual audit and publication metadata. Keep the GitHub organization profile consistent when changing the introduction, research directions, or selected publications. Unused Academic Pages demo pages are excluded from the published site.
 
