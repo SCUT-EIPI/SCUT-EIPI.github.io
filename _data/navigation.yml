@@ -12,6 +12,9 @@ main:
   - title: "Team"
     url: /members/
 
+  - title: "Contact"
+    url: /contact/
+
   - title: "Login"
     url: http://183.36.243.124:8090/
     external: true

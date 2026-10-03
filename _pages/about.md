@@ -2,6 +2,7 @@
 layout: home
 title: "EIPI Lab"
 permalink: /
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -56,6 +57,4 @@ We work with leading companies and institutions to bring our algorithms into pra
 
 ## Join Us
 
-We welcome applications from students and researchers who are interested in evolutionary computation, symbolic regression, AI for science, and intelligent optimization. Please send a short introduction, your research interests, and a CV to [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn). We are also open to research and industry collaboration.
-
-South China University of Technology, Guangzhou, China
+We welcome applications from students and researchers who are interested in evolutionary computation, symbolic regression, AI for science, and intelligent optimization. We are also open to research and industry collaboration. See [Contact]({{ '/contact/' | relative_url }}) for how to reach us.
