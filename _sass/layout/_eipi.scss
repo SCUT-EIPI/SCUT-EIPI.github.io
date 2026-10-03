@@ -1,0 +1,292 @@
+/* ==========================================================================
+   EIPI LAB VISUAL LAYER
+   Overrides the base theme: palette from the logo, serif headings,
+   calm masthead and sidebar. Loaded last.
+   ========================================================================== */
+
+:root {
+  --eipi-navy: #1d2f44;
+  --eipi-teal: #2b7a8c;
+  --eipi-gold: #c6a564;
+  --eipi-surface: #f5f7f9;
+  --eipi-muted: #5f6b78;
+  --eipi-font-sans: "Inter", system-ui, -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  --eipi-font-serif: "Source Serif 4", "Noto Serif", Georgia, "Times New Roman", "Songti SC", "Noto Serif CJK SC", serif;
+
+  --global-bg-color: #fff;
+  --global-text-color: #2a3441;
+  --global-text-color-light: #66727f;
+  --global-border-color: #e3e8ee;
+  --global-link-color: #277a8c;
+  --global-link-color-hover: #1b5666;
+  --global-link-color-visited: #277a8c;
+  --global-masthead-link-color: #33404d;
+  --global-masthead-link-color-hover: #277a8c;
+}
+
+html[data-theme="dark"] {
+  --eipi-navy: #e8eef4;
+  --eipi-teal: #6bc2d1;
+  --eipi-surface: #1a2632;
+  --eipi-muted: #9aa8b6;
+
+  --global-bg-color: #0f1720;
+  --global-text-color: #d4dce4;
+  --global-text-color-light: #9aa8b6;
+  --global-border-color: #25323f;
+  --global-link-color: #6bc2d1;
+  --global-link-color-hover: #9ddbe6;
+  --global-link-color-visited: #6bc2d1;
+  --global-masthead-link-color: #d4dce4;
+  --global-masthead-link-color-hover: #6bc2d1;
+}
+
+/* ---- Base typography ---- */
+
+html { font-size: 16px; }
+
+body {
+  font-family: var(--eipi-font-sans);
+  line-height: 1.7;
+  color: var(--global-text-color);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--eipi-font-serif);
+  color: var(--eipi-navy);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.archive {
+  font-size: 1rem;
+
+  .page__title {
+    margin: 0 0 1.4rem;
+    padding-bottom: 0.7rem;
+    font-size: 2rem;
+    line-height: 1.2;
+    border-bottom: 1px solid var(--global-border-color);
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 64px;
+      height: 3px;
+      background: var(--eipi-gold);
+    }
+  }
+
+  h2 {
+    margin: 2.4rem 0 0.9rem;
+    padding-bottom: 0.4rem;
+    font-size: 1.45rem;
+    border-bottom: 1px solid var(--global-border-color);
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 40px;
+      height: 2px;
+      background: var(--eipi-teal);
+    }
+  }
+
+  h3 {
+    margin: 1.9rem 0 0.4rem;
+    font-size: 1.15rem;
+  }
+
+  p, li { line-height: 1.7; }
+  ul, ol { padding-left: 1.2rem; }
+  li { margin: 0.4rem 0; }
+  li::marker { color: var(--eipi-teal); }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s, color 0.15s;
+
+    &:hover { border-bottom-color: currentColor; }
+  }
+
+  blockquote {
+    margin: 1.2rem 0;
+    padding: 0.4rem 1rem;
+    border-left: 3px solid var(--eipi-gold);
+    background: var(--eipi-surface);
+    color: var(--global-text-color);
+    font-style: normal;
+  }
+
+  figure {
+    margin: 1.4rem 0;
+
+    img {
+      display: block;
+      border: 1px solid var(--global-border-color);
+      border-radius: 4px;
+    }
+
+    figcaption {
+      margin-top: 0.5rem;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: var(--eipi-muted);
+    }
+  }
+}
+
+/* ---- Masthead ---- */
+
+.masthead {
+  box-shadow: 0 1px 0 var(--global-border-color), 0 2px 12px rgba(20, 40, 60, 0.04);
+
+  &::after { display: none; }
+
+  &__inner-wrap { padding: 0.55em 1em; }
+}
+
+.greedy-nav {
+  a {
+    font-size: 0.95rem;
+    letter-spacing: 0.01em;
+  }
+
+  .visible-links a:before { height: 2px; background: var(--eipi-teal); }
+
+  a.masthead__brand {
+    margin-left: 0;
+
+    span {
+      font-family: var(--eipi-font-serif);
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: 0;
+      color: var(--eipi-navy);
+    }
+  }
+}
+
+.masthead__menu-item {
+  &--lg { padding-right: 2.2em; }
+
+  &.selected a {
+    color: var(--eipi-teal);
+    font-weight: 600;
+    border-bottom: 2px solid var(--eipi-teal);
+  }
+
+  &.selected a:hover {
+    color: var(--eipi-teal);
+    border-bottom: 2px solid var(--eipi-teal);
+  }
+
+  &--cta a {
+    padding: 0.2rem 1rem !important;
+    border: 1px solid var(--eipi-teal);
+    border-radius: 999px;
+    color: var(--eipi-teal) !important;
+    font-weight: 600;
+
+    &:before { display: none; }
+
+    &:hover {
+      background: var(--eipi-teal);
+      color: var(--global-bg-color) !important;
+    }
+  }
+}
+
+/* ---- Sidebar ---- */
+
+.sidebar {
+  .author__avatar img {
+    max-width: 140px;
+    border-radius: 6px;
+  }
+
+  .author__name {
+    margin: 0.6rem 0 0.2rem;
+    font-family: var(--eipi-font-serif);
+    font-size: 1.35rem;
+    color: var(--eipi-navy);
+  }
+
+  .author__bio {
+    margin: 0 0 0.8rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--eipi-muted);
+  }
+
+  .author__urls {
+    font-size: 0.95rem;
+
+    li {
+      margin: 0.35rem 0;
+      overflow: visible;
+      text-overflow: clip;
+      white-space: normal;
+    }
+    a { border-bottom: none; }
+    i { color: var(--eipi-teal); }
+  }
+
+  .author__urls-wrapper button.btn {
+    background: var(--eipi-teal) !important;
+    border-color: var(--eipi-teal) !important;
+    color: #fff !important;
+  }
+}
+
+.author__content { padding-bottom: 0.4rem; }
+
+/* ---- Home page refinements ---- */
+
+.home {
+  &__hero img {
+    border-radius: 6px;
+    box-shadow: 0 6px 24px rgba(20, 40, 60, 0.12);
+  }
+
+  &__title {
+    font-family: var(--eipi-font-serif);
+    font-size: 2.4rem;
+    color: var(--eipi-navy);
+  }
+
+  &__subtitle { color: var(--eipi-muted); line-height: 1.5; }
+
+  &__lead { color: var(--global-text-color); }
+
+  &__stats {
+    border-top: 3px solid var(--eipi-gold);
+    border-bottom: 1px solid var(--global-border-color);
+    background: var(--eipi-surface);
+    padding: 1.2em 1.4em;
+    border-radius: 0 0 6px 6px;
+  }
+
+  &__stat strong {
+    font-family: var(--eipi-font-serif);
+    font-weight: 600;
+    color: var(--eipi-teal);
+  }
+
+  &__stat span { color: var(--eipi-muted); }
+}
+
+/* ---- Small screens ---- */
+
+@media (max-width: 600px) {
+  .archive .page__title { font-size: 1.6rem; }
+  .home__title { font-size: 1.9rem; }
+}
