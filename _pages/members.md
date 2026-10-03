@@ -16,7 +16,7 @@ author_profile: true
 
 EIPI Lab is a research group in the School of Computer Science and Engineering at South China University of Technology, led by Prof. Jinghui Zhong. The group has one professor, one postdoctoral researcher, 12 PhD students, and 20 master's students. Outstanding undergraduates also take part in our research.
 
-We work on evolutionary computation, symbolic regression, AI for science, and multimodal language models. Members work together on algorithm design, mathematical modeling, experimental evaluation, and applications in science and engineering. The lab has 8 high-performance GPU servers, with 24 RTX 4090 GPUs and 1,000 CPU cores.
+We work on evolutionary computation, symbolic regression, AI for science, and multimodal language models. Members work together on algorithm design, mathematical modeling, experimental evaluation, and applications in science and engineering.
 
 ## Group Leader
 
