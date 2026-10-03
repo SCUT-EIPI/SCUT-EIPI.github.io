@@ -34,7 +34,3 @@ Jinghui Zhong received his B.S., M.S., and Ph.D. degrees from Sun Yat-sen Univer
 His research focuses on evolutionary computation, intelligent optimization and decision-making, symbolic regression, explainable AI for science, and multimodal language models. He has authored or coauthored more than 150 journal and conference papers, including more than 40 IEEE/ACM Transactions articles. His awards include the Outstanding Industry-Academia Collaboration Case recognition from KylinSoft (2024), the IEEE TETCI Outstanding Paper Award from IEEE CIS (2023), and the Ministry of Education Natural Science Award (First Class, 2010). He has also been included in the Stanford list of the world’s top 2% of scientists.
 
 <div style="clear: both;"></div>
-
-## Join Us
-
-We welcome students and researchers who are interested in our work. Please send a short introduction, your research interests, and a CV to [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn).

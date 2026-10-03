@@ -26,3 +26,14 @@ The following papers do not list Jinghui Zhong among their authors and were remo
 ## Publishing hygiene
 
 Unused template pages (including fictional CVs and generic privacy-policy text) are excluded through `_config.yml`. The template author and CV datasets were replaced with the group identity. Shared `/md/` and `/markdown.html` redirects were removed from the members, publications, and repositories pages to avoid conflicting destinations.
+
+## Updates, 2026-10-04
+
+- Team size (owner-supplied): one professor, one postdoctoral researcher, 12 PhD students, 20 master's students, and several undergraduates. No member names are published yet.
+- Research directions and the seven industry projects on the Research page come from the owner's lab introduction poster (kept locally in `_source/`, not published, because it contains a personal phone number). Partner names were checked against public sources. The partner Amicro changed its name from 一微半导体 to 一微科技 in 2025; no official English name was found after the change, so the site writes "Amicro".
+- Address: South China University of Technology, University Town Campus, 382 Waihuan East Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou 510006. The owner stated that the School of Computer Science and Engineering is in Building B3. The map marker shows the campus, not the building.
+- "Elsevier" was removed from the top-2% wording, so the site says "Stanford list".
+- LawMind and TriVAL are listed only as arXiv preprints on the Papers page. The "Code" links and the Code and Learning Resources entries were removed because their repositories contain no implementation yet.
+- Bibliographic details for five Scholar-sourced entries (multifactorial GP, GEP survey, railway timetable DE, crowd modeling survey, crowd video learning) were checked against Crossref on 2026-10-04. Two author names were corrected (Meie Shen, Mingbi Zhao).
+- The home page numbers (papers, Transactions articles, citations) and the awards belong to Prof. Zhong, not to the group, and the text says so.
+- Unused Academic Pages sample files (`files/`, sample comments, drafts, demo images) were deleted so they no longer appear in the published site or sitemap.

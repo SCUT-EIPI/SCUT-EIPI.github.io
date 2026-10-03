@@ -8,7 +8,7 @@ redirect_from:
   - /awards.html
 ---
 
-## Awards
+## Awards of the Group Leader
 
 - **IEEE TETCI Outstanding Paper Award** (2023). IEEE Computational Intelligence Society.
 - **Outstanding Industry-Academia Collaboration Case** (2024). KylinSoft.

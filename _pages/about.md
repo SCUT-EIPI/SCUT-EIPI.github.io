@@ -18,7 +18,7 @@ redirect_from:
 <p class="home__lead">EIPI Lab develops intelligent algorithms for perception, decision-making, and optimization. We combine evolutionary computation, machine learning, and large language models to build interpretable models, solve hard optimization problems, and support scientific discovery. We also turn these methods into systems that run in industry. The group is led by <a href="https://jinghuizhong.com/">Prof. Jinghui Zhong</a>. Our name comes from Euler's identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.</p>
 
 <div class="home__stats">
-  <div class="home__stat"><strong>150+</strong><span>journal and conference papers</span></div>
+  <div class="home__stat"><strong>150+</strong><span>papers by the group leader</span></div>
   <div class="home__stat"><strong>40+</strong><span>IEEE/ACM Transactions articles</span></div>
   <div class="home__stat"><strong>5,800+</strong><span>Google Scholar citations</span></div>
   <div class="home__stat"><strong>7</strong><span>industry application projects</span></div>
@@ -39,10 +39,13 @@ We work with leading companies and institutions to bring our algorithms into pra
 
 ## Honors
 
+Awards of the group leader, Prof. Jinghui Zhong:
+
 - IEEE TETCI Outstanding Paper Award, IEEE Computational Intelligence Society, 2023
 - Outstanding Industry-Academia Collaboration Case, KylinSoft, 2024
 - Natural Science Award (First Class), Ministry of Education, 2010
-- Four international competition championships, including events at IEEE WCCI and ACM GECCO
+
+The group has won four international competition championships, including events at IEEE WCCI and ACM GECCO.
 
 [More on awards]({{ '/awards/' | relative_url }})
 
