@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-We welcome inquiries from prospective students, researchers, and industry partners. Please write to the group lead, [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn). We read every message and reply as soon as we can.
+We welcome inquiries from prospective students, researchers, and industry partners. Please write to the group leader, [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn). We read every message and reply as soon as we can.
 
 ## Prospective Students and Researchers
 

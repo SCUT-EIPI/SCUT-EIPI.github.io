@@ -18,7 +18,7 @@ EIPI Lab is a research group in the School of Computer Science and Engineering a
 
 We work on evolutionary computation, symbolic regression, AI for science, and multimodal language models. Members work together on algorithm design, mathematical modeling, experimental evaluation, and applications in science and engineering. The lab has 8 high-performance GPU servers, with 24 RTX 4090 GPUs and 1,000 CPU cores.
 
-## Group Lead
+## Group Leader
 
 <img src="{{ '/images/zhong-jinghui.jpg' | relative_url }}" alt="Prof. Jinghui Zhong" width="180" style="float: right; margin: 0 0 20px 20px; border-radius: 6px;">
 
