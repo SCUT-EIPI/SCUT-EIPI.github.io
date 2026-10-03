@@ -92,8 +92,3 @@ Partner: Midea Group Co., Ltd. (美的集团股份有限公司). Computer vision
 <div class="fig-row fig-row--single">
   <img src="{{ '/images/research/infusion-monitoring-deployment.png' | relative_url }}" alt="Infusion monitoring system deployment">
 </div>
-
-
-## Project Inquiries
-
-For industry collaboration, please contact [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn).
