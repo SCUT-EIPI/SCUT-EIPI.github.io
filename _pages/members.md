@@ -1,11 +1,22 @@
 ---
 layout: archive
-title: "Members"
+title: "团队介绍"
 permalink: /members/
 author_profile: true
 ---
 
-## Group Lead
+## 团队合照
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
+  <img src="{{ '/images/team-photo-1.jpg' | relative_url }}" alt="EIPI Lab 团队合照 1" style="flex: 1 1 300px; min-width: 0; width: 100%; border-radius: 6px;">
+  <img src="{{ '/images/team-photo-2.jpg' | relative_url }}" alt="EIPI Lab 团队合照 2" style="flex: 1 1 300px; min-width: 0; width: 100%; border-radius: 6px;">
+</div>
+
+## 团队简介
+
+EIPI Lab 隶属于华南理工大学计算机科学与工程学院，由钟竞辉教授带领。团队现有 1 位教授、1 位博士后、12 位在读博士和 20 位硕士研究生，另有若干优秀本科生参与科研。团队围绕进化计算、符号回归、AI for Science 与多模态大模型开展研究，成员在算法设计、数学建模、实验评估和科学与工程应用中紧密合作。
+
+## 团队负责人
 
 <img src="{{ '/images/zhong-jinghui.jpg' | relative_url }}" alt="Prof. Jinghui Zhong" width="180" style="float: right; margin: 0 0 20px 20px; border-radius: 6px;">
 
@@ -22,10 +33,7 @@ His research focuses on evolutionary computation, intelligent optimization and d
 
 <div style="clear: both;"></div>
 
-## Research Group
+## 加入我们
 
-Our group includes postdoctoral researchers, doctoral and master's students, and undergraduate researchers. We work together on algorithm development, mathematical modeling, experimental evaluation, and applications in science and engineering.
-
-## Join Us
 
 Prospective students and researchers interested in our work are welcome to contact [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn) with a brief introduction, their research interests, and a CV.
