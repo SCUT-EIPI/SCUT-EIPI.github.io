@@ -12,8 +12,8 @@ Prof. Jinghui Zhong has published more than 150 papers, including more than 40 I
 
 ## Recent Preprints (2026)
 
-- Ziyang Fang, JinXi Wang, Jinghui Zhong, Yew-Soon Ong. [**TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling**](https://arxiv.org/abs/2605.23966). *arXiv:2605.23966*, 2026. TriVAL checks the semantic specification, the mathematical formulation, and the solver code in a construct-validate-revise loop. We also introduce NL4COP, a benchmark of 50 combinatorial problem types and 150 instances. [Code](https://github.com/SCUT-EIPI/TriVAL)
-- Min-Yi Zheng, Shengqi Zhang, Liancheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong. [**LawMind: A Law-Driven Paradigm for Discovering Analytical Solutions to Partial Differential Equations**](https://arxiv.org/abs/2603.14353). *arXiv:2603.14353*, 2026. LawMind builds closed-form PDE solutions from governing laws alone, without data. It recovers the solutions of all 100 benchmark PDEs. [Code](https://github.com/SCUT-EIPI/LawMind)
+- Ziyang Fang, JinXi Wang, Jinghui Zhong, Yew-Soon Ong. [**TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling**](https://arxiv.org/abs/2605.23966). *arXiv:2605.23966*, 2026. TriVAL checks the semantic specification, the mathematical formulation, and the solver code in a construct-validate-revise loop. We also introduce NL4COP, a benchmark of 50 combinatorial problem types and 150 instances.
+- Min-Yi Zheng, Shengqi Zhang, Liancheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong. [**LawMind: A Law-Driven Paradigm for Discovering Analytical Solutions to Partial Differential Equations**](https://arxiv.org/abs/2603.14353). *arXiv:2603.14353*, 2026. LawMind builds closed-form PDE solutions from governing laws alone, without data. It recovers the solutions of all 100 benchmark PDEs.
 
 ## Symbolic Regression & Genetic Programming
 
