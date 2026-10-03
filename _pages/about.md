@@ -35,7 +35,7 @@ Our research has four directions. [Read more about our research and industry pro
 
 ## Industry Collaboration
 
-We work with leading companies and institutions to bring our algorithms into practice. Current projects cover embodied robots, smart buildings, crowd management in airports, rural decision support, industrial quality inspection, elevator safety, and hospital infusion monitoring. Partners include Midea Group (美的集团), Guangdong Airport Authority (广东省机场管理集团), Digital Guangdong (数字广东), and Amicro Semiconductor (一微半导体).
+We work with leading companies and institutions to bring our algorithms into practice. Current projects cover embodied robots, smart buildings, crowd management in airports, rural decision support, industrial quality inspection, elevator safety, and hospital infusion monitoring. Partners include Midea Group (美的集团), Guangdong Airport Authority (广东省机场管理集团), Digital Guangdong (数字广东), and Amicro (一微科技).
 
 ## Honors
 

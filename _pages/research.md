@@ -30,7 +30,7 @@ We work with industry partners to move these methods into real products and serv
 
 ### Embodied Intelligent Brain (具身智能大脑)
 
-With Zhuhai Amicro Semiconductor Co., Ltd. (珠海一微半导体股份有限公司), we build a new generation of intelligent reception and tour-guide robots on a Unitree humanoid platform. Our AI vision and cognitive decision-making technology forms an embodied brain. It gives the robot natural human-robot interaction and intelligent decision-making. It supports smart museums, exhibition halls, and large public cultural and tourism venues.
+With Zhuhai Amicro (珠海一微科技股份有限公司), we build a new generation of intelligent reception and tour-guide robots on a Unitree humanoid platform. Our AI vision and cognitive decision-making technology forms an embodied brain. It gives the robot natural human-robot interaction and intelligent decision-making. It supports smart museums, exhibition halls, and large public cultural and tourism venues.
 
 ### Intelligent Decision Brain for Rural Revitalization (乡村振兴智能决策大脑)
 
