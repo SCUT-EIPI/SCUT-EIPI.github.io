@@ -15,7 +15,7 @@ redirect_from:
 <h1 class="home__title">EIPI Lab</h1>
 <p class="home__subtitle">Evolutionary Intelligence for Science and Engineering</p>
 
-<p class="home__lead">EIPI Lab is a research team at South China University of Technology, led by <a href="https://jinghuizhong.com/">Prof. Jinghui Zhong</a>. The team brings together a professor, a postdoctoral researcher, doctoral and master's students, and undergraduate researchers. We work on evolutionary computation and combine it with machine learning and large language models. Our topics include genetic programming and symbolic regression, evolutionary multitasking, intelligent optimization, and multimodal decision-making. We aim to build interpretable models and efficient algorithms for scientific discovery and engineering, and to turn them into systems that run in industry. The name EIPI comes from Euler's identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.</p>
+<p class="home__lead">EIPI Lab is a research team at South China University of Technology, led by <a href="https://jinghuizhong.com/">Prof. Jinghui Zhong</a>. The team brings together a professor, a postdoctoral researcher, doctoral and master's students, and undergraduate researchers. We work on evolutionary computation and combine it with machine learning and large language models. Our topics include genetic programming and symbolic regression, evolutionary multitasking, intelligent optimization, and multimodal decision-making. We aim to build interpretable models and efficient algorithms for scientific discovery and engineering, and to turn them into systems that run in industry.</p>
 
 <div class="home__stats">
   <div class="home__stat"><strong>150+</strong><span>papers by the group leader</span></div>
