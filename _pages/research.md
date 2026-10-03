@@ -4,25 +4,25 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-EIPI Lab studies intelligent perception and intelligent decision-making. We design new AI algorithms and turn them into working systems with industry partners.
+EIPI Lab works on intelligent perception and intelligent decision-making. We develop new methods in evolutionary computation, machine learning, and large language models. We test them on scientific and engineering problems, and we deploy them as working systems with industry partners.
 
 ## Research Directions
 
 ### Intelligent Decision-Making
 
-We use large language models to build decision systems that fuse multimodal information. They understand meaning across modalities, reason about the situation, plan tasks in complex scenes, assess risk, and support decisions.
+We build decision systems that use large language models to fuse multimodal information. The systems understand meaning across modalities, reason about the situation, plan tasks in complex scenes, assess risk, and support decisions. We also check what the models produce. For example, TriVAL validates the semantic specification, the mathematical formulation, and the solver code in automatic optimization modeling.
 
 ### Intelligent Perception
 
-We use deep learning (CNN, YOLO, Transformer) and reinforcement learning to build perception functions. These include speech recognition, object recognition, product defect detection, and anomaly detection.
+We develop perception functions with deep learning (CNN, YOLO, Transformer) and reinforcement learning. They include speech recognition, object recognition, product defect detection, and anomaly detection. We also care about deployment. Several of our models run on edge devices, including domestic low-power chips, for elevator safety and hospital infusion monitoring.
 
 ### Intelligent Optimization
 
-We design efficient optimization algorithms for NP-hard scheduling problems and expensive black-box optimization. We also work on data regression and classification, and on knowledge discovery. Symbolic regression and genetic programming are our core tools.
+We design efficient algorithms for NP-hard scheduling problems, expensive black-box optimization, data regression and classification, and knowledge discovery. Evolutionary computation is our main tool. Our work includes genetic programming and symbolic regression, which find explicit mathematical expressions from data. It also includes evolutionary multitasking, which transfers knowledge among related optimization tasks, and law-driven search for closed-form solutions of partial differential equations.
 
 ### Multi-Agent Simulation
 
-We use agent-based technology to simulate and project large complex systems. One example is behavior simulation and analysis of crowds in large airports.
+We use agent-based models to simulate and project the behavior of large complex systems. A typical case is crowd simulation in large airports. We combine simulation with optimization and learning, for example to plan crowd paths, place fences, and control crowd inflow.
 
 ## Industry Projects
 
