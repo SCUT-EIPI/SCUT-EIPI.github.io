@@ -66,10 +66,6 @@ Partner: Midea Group Co., Ltd. (美的集团股份有限公司).
 
 Computer vision recognizes the infusion state and monitors abnormal events. The system deploys locally on edge devices and targets hospital wards. It improves ward nursing efficiency and intelligent management.
 
-## AI Training
-
-We also run AI training programs for industry. They follow four steps: build awareness of AI, practice with real tools, anchor the tools in the trainees' own scenarios, and provide long-term service. The aim is to help companies upgrade digitally.
-
 ## Project Inquiries
 
 For industry collaboration, please contact [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn).
