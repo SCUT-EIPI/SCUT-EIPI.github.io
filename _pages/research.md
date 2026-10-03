@@ -60,11 +60,26 @@ Partner: Midea Group Co., Ltd. (美的集团股份有限公司).
 
 AI vision algorithms run on the device side on a domestic low-power chip. They recognize electric vehicles, count people, and detect falls. Object detection and tracking are the core technology. The system improves real-time monitoring and risk warning for elevator safety management.
 
+<figure>
+  <img src="{{ '/images/research/elevator-edge-board.png' | relative_url }}" alt="Edge test board for the elevator safety terminal" style="width: 320px; max-width: 100%;">
+  <figcaption>Edge test board (HongOU PI, Hi3516DV500) that runs the detection models.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/images/research/elevator-detection-results.png' | relative_url }}" alt="Detection results inside elevator cabins" style="width: 480px; max-width: 100%;">
+  <figcaption>Detection results inside elevator cabins. The model finds electric vehicles (orange boxes) and people (blue boxes).</figcaption>
+</figure>
+
 ### Medical Infusion Monitoring System Based on Computer Vision (基于计算机视觉的医疗输液监测系统)
 
 Partner: Midea Group Co., Ltd. (美的集团股份有限公司).
 
 Computer vision recognizes the infusion state and monitors abnormal events. The system deploys locally on edge devices and targets hospital wards. It improves ward nursing efficiency and intelligent management.
+
+<figure>
+  <img src="{{ '/images/research/infusion-monitoring-deployment.png' | relative_url }}" alt="Deployment of the infusion monitoring system in a hospital" style="width: 100%; max-width: 760px;">
+  <figcaption>System deployment. Left: bedside screen in the infusion area or ward. Right: door display and nurse station, and the IT room with the management system (HIS integration).</figcaption>
+</figure>
 
 ## Project Inquiries
 
