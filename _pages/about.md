@@ -1,31 +1,61 @@
 ---
-title: "About EIPI Lab"
+layout: home
+title: "EIPI Lab"
 permalink: /
-author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-**EIPI Lab** (Evolutionary Intelligence for Science and Engineering) is a research group at **South China University of Technology (SCUT)** in Guangzhou, China, led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/). Our name is inspired by Euler’s identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.
+<div class="home__hero">
+  <img src="{{ '/images/team-photo-1.jpg' | relative_url }}" alt="EIPI Lab group photo">
+</div>
 
-We study how evolutionary search, machine learning, and domain knowledge can work together to build interpretable models and solve optimization problems. Our work spans genetic programming, symbolic regression, evolutionary multitasking, and intelligent decision-making, with applications in scientific discovery, transportation, sensor networks, and crowd management.
+<h1 class="home__title">EIPI Lab</h1>
+<p class="home__subtitle">Evolutionary Intelligence for Science and Engineering<br>School of Computer Science and Engineering, South China University of Technology</p>
 
-### Quick Links
+<p class="home__lead">EIPI Lab develops intelligent algorithms for perception, decision-making, and optimization. We combine evolutionary computation, machine learning, and large language models to build interpretable models, solve hard optimization problems, and support scientific discovery. We also turn these methods into systems that run in industry. The group is led by <a href="https://jinghuizhong.com/">Prof. Jinghui Zhong</a>. Our name comes from Euler's identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.</p>
 
-- **Google Scholar:** [5,800+ citations & 150+ publications]({{ site.author.googlescholar }})
-- **GitHub Organization:** [SCUT-EIPI (EIPI Lab)](https://github.com/SCUT-EIPI)
+<div class="home__stats">
+  <div class="home__stat"><strong>150+</strong><span>journal and conference papers</span></div>
+  <div class="home__stat"><strong>40+</strong><span>IEEE/ACM Transactions articles</span></div>
+  <div class="home__stat"><strong>5,800+</strong><span>Google Scholar citations</span></div>
+  <div class="home__stat"><strong>7</strong><span>industry application projects</span></div>
+</div>
 
-## Research Directions
+## Research
 
-- **Evolutionary computation and optimization:** Genetic programming, gene expression programming, and knowledge transfer across optimization tasks.
-- **Symbolic regression and AI for science:** Searching for explicit and implicit mathematical relationships, generating mathematical conjectures, and finding analytical solutions to differential equations.
-- **Language models and multimodal AI:** Combining foundation models with search, mathematical modeling, and validation; studying multimodal learning and reasoning.
-- **Learning and decision-making for complex systems:** Reinforcement learning, agent-based modeling, and evolutionary optimization for transportation, wireless sensor networks, and crowd management.
+Our research has four directions. [Read more about our research and industry projects.]({{ '/research/' | relative_url }})
 
-## Contact Us
+- **Intelligent Decision-Making.** Large language models fuse multimodal information to plan tasks, assess risk, and support decisions in complex scenes.
+- **Intelligent Perception.** Deep learning and reinforcement learning give machines the ability to recognize speech, objects, defects, and anomalies.
+- **Intelligent Optimization.** Efficient algorithms solve NP-hard scheduling and expensive black-box problems. Symbolic regression and genetic programming support knowledge discovery from data.
+- **Multi-Agent Simulation.** Agent-based models simulate large complex systems, such as crowds in airports and other public spaces.
 
-We welcome research discussions, collaborations, and inquiries from prospective students interested in evolutionary computation, symbolic regression, AI for science, or intelligent optimization.
+## Recent Work
 
-- **Group lead:** Prof. Jinghui Zhong — [jinghuizhong@scut.edu.cn](mailto:jinghuizhong@scut.edu.cn)
-- **Location:** South China University of Technology, Guangzhou, China
+- Ziyang Fang, JinXi Wang, Jinghui Zhong, Yew-Soon Ong. [**TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling**](https://arxiv.org/abs/2605.23966). *arXiv*, 2026.
+- Min-Yi Zheng, Shengqi Zhang, Liancheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong. [**LawMind: A Law-Driven Paradigm for Discovering Analytical Solutions to Partial Differential Equations**](https://arxiv.org/abs/2603.14353). *arXiv*, 2026.
+- Jinghui Zhong. ***遗传编程算法及其应用*** (*Genetic Programming Algorithms and Their Applications*). Science Press, 2026.
+- Junlan Dong, Jinghui Zhong. [**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634). *ACM Computing Surveys*, 2025.
+
+[All publications]({{ '/publications/' | relative_url }}) · [Google Scholar]({{ site.author.googlescholar }})
+
+## Industry Collaboration
+
+We work with leading companies and institutions to bring our algorithms into practice. Current projects cover embodied robots, smart buildings, crowd management in airports, rural decision support, industrial quality inspection, elevator safety, and hospital infusion monitoring. Partners include Midea Group (美的集团), Guangdong Airport Authority (广东省机场管理集团), Digital Guangdong (数字广东), and Amicro Semiconductor (一微半导体).
+
+## Honors
+
+- IEEE TETCI Outstanding Paper Award, IEEE Computational Intelligence Society, 2023
+- Outstanding Industry-Academia Collaboration Case, KylinSoft, 2024
+- Natural Science Award (First Class), Ministry of Education, 2010
+- Four international competition championships, including events at IEEE WCCI and ACM GECCO
+
+[More on awards]({{ '/awards/' | relative_url }})
+
+## Join Us
+
+We welcome applications from students and researchers who are interested in evolutionary computation, symbolic regression, AI for science, and intelligent optimization. Please send a short introduction, your research interests, and a CV to [Prof. Jinghui Zhong](mailto:jinghuizhong@scut.edu.cn). We are also open to research and industry collaboration.
+
+South China University of Technology, Guangzhou, China

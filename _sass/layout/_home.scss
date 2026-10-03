@@ -1,0 +1,70 @@
+/* ==========================================================================
+   HOME PAGE
+   ========================================================================== */
+
+.home {
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto 3em;
+
+  h2 {
+    margin-top: 2.2em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  &__hero {
+    margin: 0 0 2em;
+
+    img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 2 / 1;
+      object-fit: cover;
+      object-position: 50% 60%;
+      border-radius: 4px;
+    }
+  }
+
+  &__title {
+    margin: 0.2em 0 0;
+    font-size: 2.2em;
+    line-height: 1.2;
+  }
+
+  &__subtitle {
+    margin: 0.3em 0 0;
+    font-size: 1.15em;
+    color: var(--global-text-color-light);
+  }
+
+  &__lead {
+    font-size: 1.1em;
+    line-height: 1.7;
+  }
+
+  &__stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em 3em;
+    margin: 2em 0 0;
+    padding: 1.2em 0;
+    border-top: 1px solid var(--global-border-color);
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  &__stat {
+    min-width: 7em;
+
+    strong {
+      display: block;
+      font-size: 1.9em;
+      line-height: 1.1;
+    }
+
+    span {
+      font-size: 0.85em;
+      color: var(--global-text-color-light);
+    }
+  }
+}

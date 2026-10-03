@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Prof. Jinghui Zhong has published more than 150 papers, including more than 40 IEEE/ACM Transactions articles. His work has received over 5,800 citations (h-index 37, [Google Scholar]({{ site.author.googlescholar }})). Below we list representative work by research direction. For the complete list, see [Google Scholar]({{ site.author.googlescholar }}).
+Prof. Jinghui Zhong has published more than 150 papers, including more than 40 IEEE/ACM Transactions articles. His work has received over 5,800 citations (h-index 37). This page lists representative work by research direction. The complete list is on [Google Scholar]({{ site.author.googlescholar }}).
 
 ## Book
 

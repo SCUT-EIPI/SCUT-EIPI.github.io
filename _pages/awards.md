@@ -8,26 +8,24 @@ redirect_from:
   - /awards.html
 ---
 
-## Awards of the Group Lead
+## Awards
 
-Prof. Jinghui Zhong’s awards include:
-
-- **Outstanding Industry-Academia Collaboration Case** — KylinSoft, **2024**.
-- **IEEE TETCI Outstanding Paper Award** — IEEE Computational Intelligence Society (IEEE CIS), **2023**.
-- **Natural Science Award (First Class)** — Ministry of Education, **2010**.
+- **IEEE TETCI Outstanding Paper Award** (2023). IEEE Computational Intelligence Society.
+- **Outstanding Industry-Academia Collaboration Case** (2024). KylinSoft.
+- **Natural Science Award, First Class** (2010). Ministry of Education of China.
 
 ## Award-Winning Paper
 
-Prof. Jinghui Zhong and his coauthors received the **2023 IEEE Transactions on Emerging Topics in Computational Intelligence Outstanding Paper Award** for:
+The 2023 IEEE Transactions on Emerging Topics in Computational Intelligence Outstanding Paper Award went to:
 
-> Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang. [An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020.
+> Yongliang Chen, Jinghui Zhong, Liang Feng, Jun Zhang. [An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020.
 
-The paper develops an adaptive archive-based approach to many-task optimization.
+The paper proposes an adaptive archive-based framework that transfers knowledge among many optimization tasks.
 
-## International Competition Championships
+## International Competitions
 
-Our group has won **four international competition championships**, including victories in competitions held at the **IEEE World Congress on Computational Intelligence (WCCI)** and the **ACM Genetic and Evolutionary Computation Conference (GECCO)**.
+The group has won four international competition championships. They include competitions held at the IEEE World Congress on Computational Intelligence (WCCI) and the ACM Genetic and Evolutionary Computation Conference (GECCO).
 
-## Recognition of the Group Lead
+## Academic Recognition
 
-Prof. Jinghui Zhong has been included in the **Stanford/Elsevier list of the world’s top 2% of scientists**.
+Prof. Jinghui Zhong is included in the Stanford/Elsevier list of the world's top 2% of scientists.
