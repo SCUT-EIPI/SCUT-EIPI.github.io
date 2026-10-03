@@ -1,0 +1,34 @@
+# Industry projects shown on /research/. Newest first.
+- title: "Embodied Intelligent Brain"
+  image: embodied-brain.png
+  partner: "Amicro Semiconductor"
+  text: "With Amicro Semiconductor, we build a new generation of intelligent reception and tour-guide robots on a Unitree humanoid platform. Our AI vision and cognitive decision-making technology forms an embodied brain. It gives the robot natural human-robot interaction and intelligent decision-making for smart museums, exhibition halls, and large public cultural and tourism venues."
+
+- title: "Intelligent Decision Brain for Rural Revitalization"
+  image: rural-decision.png
+  partner: "Digital Guangdong"
+  text: "A decision system for the whole agricultural chain, from production and processing to sales. It supports intelligent recognition and early warning, harvest decisions, grading, storage recommendation, smart pricing, and logistics optimization. It helps the agricultural industry chain move toward digital and intelligent operation."
+
+- title: "Smart Building Brain"
+  image: smart-building.png
+  partner: "Midea"
+  text: "A large language model is the core. It is combined with a RAG knowledge base, task planning, and device control. The system makes intelligent decisions, schedules automatically, and interacts in natural language in building scenes. It works through a web page or on mobile devices, for smart building management and intelligent operation and maintenance."
+
+- title: "Crowd Digital Twin and Smart Control System for Large Complex Spaces"
+  image: crowd-twin.png
+  partner: "Guangdong Airport Authority"
+  text: "A multimodal crowd digital twin platform built from more than 60 TB of video data. It monitors passenger flow and density, detects anomalies, and supports management optimization. The platform can predict, detect, and optimize. It serves crowd management and safe operation in large public spaces."
+
+- title: "Defect Detection for Industrial Production Lines"
+  image: pcb-defect.png
+  text: "AI vision that automatically identifies and flags PCB soldering defects. It raises the efficiency and accuracy of quality inspection on production lines, for PCB manufacturing and other industrial quality-inspection scenes."
+
+- title: "Edge Safety Terminal for Elevators Based on AI Vision"
+  image: elevator-safety.png
+  partner: "Midea"
+  text: "AI vision algorithms run on the device side on a domestic low-power chip. They recognize electric vehicles, count people, and detect falls. Object detection and tracking are the core technology. The system improves real-time monitoring and risk warning for elevator safety management."
+
+- title: "Medical Infusion Monitoring System Based on Computer Vision"
+  image: infusion-monitoring.png
+  partner: "Midea"
+  text: "Computer vision recognizes the infusion state and monitors abnormal events. The system deploys locally on edge devices and targets hospital wards. It improves ward nursing efficiency and intelligent management."
