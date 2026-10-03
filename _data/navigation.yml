@@ -1,6 +1,6 @@
 # Navigation menu matching MetaEvo structure
 main:
-  - title: "Publications"
+  - title: "Papers"
     url: /publications/
 
   - title: "Repositories"
