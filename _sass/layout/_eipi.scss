@@ -296,3 +296,45 @@ h1, h2, h3, h4, h5, h6 {
   .archive .page__title { font-size: 1.6rem; }
   .home__title { font-size: 1.9rem; }
 }
+
+/* ---- Logo: light and dark variants ---- */
+
+.logo--dark { display: none !important; }
+html[data-theme="dark"] .logo--light { display: none !important; }
+html[data-theme="dark"] .logo--dark { display: inline-block !important; }
+.author__avatar img.logo--dark { display: none !important; }
+html[data-theme="dark"] .author__avatar img.logo--dark { display: block !important; }
+
+/* ---- Project media: rows of images with equal height, single items centered ---- */
+
+.archive .fig-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 1.6rem 0 2rem;
+
+  img, video {
+    display: block;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+  }
+
+  &--multi img {
+    height: 260px;
+    width: auto;
+    max-width: 100%;
+  }
+
+  &--single img,
+  &--single video {
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .archive .fig-row--multi img { height: auto; width: 100%; }
+}

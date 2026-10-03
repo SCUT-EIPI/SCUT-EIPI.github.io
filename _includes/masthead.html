@@ -7,7 +7,7 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a class="masthead__brand" href="{{ base_path }}/">
-              {% if site.logo %}<img class="masthead__logo" src="{{ base_path }}/images/{{ site.logo }}" alt="" width="40" height="40">{% endif %}
+              {% if site.logo %}<img class="masthead__logo logo--light" src="{{ base_path }}/images/{{ site.logo }}" alt="" width="40" height="40"><img class="masthead__logo logo--dark" src="{{ base_path }}/images/{{ site.logo_dark }}" alt="" width="40" height="40">{% endif %}
               <span>{{ site.title }}</span>
             </a>
           </li>
