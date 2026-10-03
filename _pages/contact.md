@@ -26,6 +26,6 @@ South China University of Technology, University Town Campus<br>
 382 Waihuan East Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou 510006, China<br>
 华南理工大学大学城校区计算机科学与工程学院 B3 楼，广州市番禺区广州大学城外环东路 382 号，510006
 
-<iframe title="Map of South China University of Technology, University Town Campus" width="100%" height="380" style="border: 1px solid var(--global-border-color); border-radius: 4px;" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=113.3905%2C23.0430%2C113.4105%2C23.0570&amp;layer=mapnik&amp;marker=23.0500%2C113.4005"></iframe>
+<iframe title="Map: School of Computer Science and Engineering (Building B3), South China University of Technology" width="100%" height="380" style="border: 1px solid var(--global-border-color); border-radius: 4px;" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=113.4002%2C23.0455%2C113.4062%2C23.0502&amp;layer=mapnik&amp;marker=23.047854%2C113.403253"></iframe>
 
-[Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=23.0500&mlon=113.4005#map=17/23.0500/113.4005) · [Open in Amap (高德地图)](https://uri.amap.com/search?keyword=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E5%9F%8E%E6%A0%A1%E5%8C%BA)
+[Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=23.047854&mlon=113.403253#map=18/23.047854/113.403253) · [Open in Amap (高德地图)](https://uri.amap.com/search?keyword=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2)
