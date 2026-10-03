@@ -31,7 +31,7 @@ We work on evolutionary computation, symbolic regression, AI for science, and mu
 
 Jinghui Zhong received his B.S., M.S., and Ph.D. degrees from Sun Yat-sen University in 2005, 2007, and 2012, respectively. He was a postdoctoral researcher at Nanyang Technological University, Singapore, from 2013 to 2016 and joined SCUT in 2016. He leads the EIPI research group.
 
-His research focuses on evolutionary computation, intelligent optimization and decision-making, symbolic regression, explainable AI for science, and multimodal language models. He has authored or coauthored more than 150 journal and conference papers, including more than 40 IEEE/ACM Transactions articles. His awards include the Outstanding Industry-Academia Collaboration Case recognition from KylinSoft (2024), the IEEE TETCI Outstanding Paper Award from IEEE CIS (2023), and the Ministry of Education Natural Science Award (First Class, 2010). He has also been included in the Stanford/Elsevier list of the world’s top 2% of scientists.
+His research focuses on evolutionary computation, intelligent optimization and decision-making, symbolic regression, explainable AI for science, and multimodal language models. He has authored or coauthored more than 150 journal and conference papers, including more than 40 IEEE/ACM Transactions articles. His awards include the Outstanding Industry-Academia Collaboration Case recognition from KylinSoft (2024), the IEEE TETCI Outstanding Paper Award from IEEE CIS (2023), and the Ministry of Education Natural Science Award (First Class, 2010). He has also been included in the Stanford list of the world’s top 2% of scientists.
 
 <div style="clear: both;"></div>
 

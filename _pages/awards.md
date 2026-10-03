@@ -28,4 +28,4 @@ The group has won four international competition championships. They include com
 
 ## Academic Recognition
 
-Prof. Jinghui Zhong is included in the Stanford/Elsevier list of the world's top 2% of scientists.
+Prof. Jinghui Zhong is included in the Stanford list of the world's top 2% of scientists.
