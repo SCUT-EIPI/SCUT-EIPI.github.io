@@ -15,11 +15,12 @@ Prof. Jinghui Zhong has published more than 150 papers, including more than 40 I
 - Ziyang Fang, JinXi Wang, Jinghui Zhong, Yew-Soon Ong. [**TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling**](https://arxiv.org/abs/2605.23966). *arXiv:2605.23966*, 2026. TriVAL checks the semantic specification, the mathematical formulation, and the solver code in a construct-validate-revise loop. We also introduce NL4COP, a benchmark of 50 combinatorial problem types and 150 instances. [Code](https://github.com/SCUT-EIPI/TriVAL)
 - Min-Yi Zheng, Shengqi Zhang, Liancheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong. [**LawMind: A Law-Driven Paradigm for Discovering Analytical Solutions to Partial Differential Equations**](https://arxiv.org/abs/2603.14353). *arXiv:2603.14353*, 2026. LawMind builds closed-form PDE solutions from governing laws alone, without data. It recovers the solutions of all 100 benchmark PDEs. [Code](https://github.com/SCUT-EIPI/LawMind)
 
-## Symbolic Regression, Genetic Programming & AI for Science
+## Symbolic Regression & Genetic Programming
 
 - Junlan Dong, Jinghui Zhong. [**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634). *ACM Computing Surveys*, 57(11): 1–37, 2025.
 - Min-Yi Zheng, Yueheng Wang, Jinghui Zhong, Jun Zhang. [**Discovering Infinite Recursive Conjectures Through Genetic Programming**](https://doi.org/10.1109/tevc.2025.3611312). *IEEE Transactions on Evolutionary Computation*, 30(3): 1240–1254, 2026.
 - Jinghui Zhong, Junlan Dong, Wei-Li Liu, Liang Feng, Jun Zhang. [**Multiform Genetic Programming Framework for Symbolic Regression Problems**](https://doi.org/10.1109/tevc.2025.3527875). *IEEE Transactions on Evolutionary Computation*, 29(2): 429–443, 2025.
+- Zhitong Ma, Jinghui Zhong. [**GESR: A Geometric Evolution Model for Symbolic Regression**](https://doi.org/10.1162/EVCO.a.367). *Evolutionary Computation*, 2026.
 - Junlan Dong, Jinghui Zhong, Wei-Li Liu, Jun Zhang. [**Evolving Equation Learner for Symbolic Regression**](https://doi.org/10.1109/tevc.2024.3404650). *IEEE Transactions on Evolutionary Computation*, 29(5): 1745–1759, 2025.
 - Xiaoxu Han, Jinghui Zhong, Zhitong Ma, Xin Mu, Nikola Gligorovski. [**Transformer-Assisted Genetic Programming for Symbolic Regression**](https://doi.org/10.1109/mci.2025.3540742). *IEEE Computational Intelligence Magazine*, 20(2): 58–79, 2025.
 - Zhixing Huang, Yi Mei, Jinghui Zhong. [**Semantic Linear Genetic Programming for Symbolic Regression**](https://doi.org/10.1109/tcyb.2022.3181461). *IEEE Transactions on Cybernetics*, 54(2): 1321–1334, 2024.
@@ -30,6 +31,7 @@ Prof. Jinghui Zhong has published more than 150 papers, including more than 40 I
 ## Evolutionary Multitasking & Intelligent Optimization
 
 - Tingyang Wei, Shibin Wang, Jinghui Zhong, Dong Liu, Jun Zhang. [**A Review on Evolutionary Multitask Optimization: Trends and Challenges**](https://doi.org/10.1109/tevc.2021.3139437). *IEEE Transactions on Evolutionary Computation*, 26(5): 941–960, 2022.
+- Shijia Huang, Jinghui Zhong, Wei-Jie Yu. [**Surrogate-Assisted Evolutionary Framework with Adaptive Knowledge Transfer for Multi-Task Optimization**](https://doi.org/10.1109/TETC.2019.2945775). *IEEE Transactions on Emerging Topics in Computing*, 9(4): 1930–1944, 2021.
 - Liang Feng, Lei Zhou, Jinghui Zhong, Abhishek Gupta, Yew-Soon Ong, Kay-Chen Tan, A. K. Qin. [**Evolutionary Multitasking via Explicit Autoencoding**](https://doi.org/10.1109/tcyb.2018.2845361). *IEEE Transactions on Cybernetics*, 49(9): 3457–3470, 2019.
 - Yongliang Chen, Jinghui Zhong, Liang Feng, Jun Zhang. [**An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization**](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020. **IEEE TETCI Outstanding Paper Award, 2023.**
 - Lei Zhou, Liang Feng, Kay Chen Tan, Jinghui Zhong, Zexuan Zhu, Kai Liu, Chao Chen. [**Toward Adaptive Knowledge Transfer in Multifactorial Evolutionary Computation**](https://doi.org/10.1109/tcyb.2020.2974100). *IEEE Transactions on Cybernetics*, 51(5): 2563–2576, 2021.
@@ -45,7 +47,7 @@ Prof. Jinghui Zhong has published more than 150 papers, including more than 40 I
 - Jinghui Zhong, Zhixing Huang, Liang Feng, Wan Du, Ying Li. [**A Hyper-Heuristic Framework for Lifetime Maximization in Wireless Sensor Networks With a Mobile Sink**](https://doi.org/10.1109/jas.2019.1911846). *IEEE/CAA Journal of Automatica Sinica*, 7(1): 223–236, 2020.
 - Jinghui Zhong, Wentong Cai, Linbo Luo, Mingbo Zhao. **Learning Behavior Patterns From Video for Agent-Based Crowd Modeling and Simulation**. *Autonomous Agents and Multi-Agent Systems*, 30(5), 2016.
 
-## Smart Transportation & Engineering Applications
+## Engineering Applications
 
 - Wei-Li Liu, Jinghui Zhong, Peng Liang, Jianhua Guo, Huimin Zhao, Jun Zhang. [**Towards Explainable Traffic Signal Control for Urban Networks Through Genetic Programming**](https://doi.org/10.1016/j.swevo.2024.101588). *Swarm and Evolutionary Computation*, 88: 101588, 2024.
 - Xiao-Cheng Liao, Wei-Neng Chen, Xiao-Qi Guo, Jinghui Zhong, Xiao-Min Hu. [**Crowd Management Through Optimal Layout of Fences: An Ant Colony Approach Based on Crowd Simulation**](https://doi.org/10.1109/tits.2023.3272318). *IEEE Transactions on Intelligent Transportation Systems*, 24(9): 9137–9149, 2023.

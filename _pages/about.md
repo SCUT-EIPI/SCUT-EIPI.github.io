@@ -33,15 +33,6 @@ Our research has four directions. [Read more about our research and industry pro
 - **Intelligent Optimization.** Efficient algorithms solve NP-hard scheduling and expensive black-box problems. Symbolic regression and genetic programming support knowledge discovery from data.
 - **Multi-Agent Simulation.** Agent-based models simulate large complex systems, such as crowds in airports and other public spaces.
 
-## Recent Work
-
-- Ziyang Fang, JinXi Wang, Jinghui Zhong, Yew-Soon Ong. [**TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling**](https://arxiv.org/abs/2605.23966). *arXiv*, 2026.
-- Min-Yi Zheng, Shengqi Zhang, Liancheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong. [**LawMind: A Law-Driven Paradigm for Discovering Analytical Solutions to Partial Differential Equations**](https://arxiv.org/abs/2603.14353). *arXiv*, 2026.
-- Jinghui Zhong. ***遗传编程算法及其应用*** (*Genetic Programming Algorithms and Their Applications*). Science Press, 2026.
-- Junlan Dong, Jinghui Zhong. [**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634). *ACM Computing Surveys*, 2025.
-
-[All publications]({{ '/publications/' | relative_url }}) · [Google Scholar]({{ site.author.googlescholar }})
-
 ## Industry Collaboration
 
 We work with leading companies and institutions to bring our algorithms into practice. Current projects cover embodied robots, smart buildings, crowd management in airports, rural decision support, industrial quality inspection, elevator safety, and hospital infusion monitoring. Partners include Midea Group (美的集团), Guangdong Airport Authority (广东省机场管理集团), Digital Guangdong (数字广东), and Amicro Semiconductor (一微半导体).
