@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <h1 class="home__title">EIPI Lab</h1>
-<p class="home__subtitle">Evolutionary Intelligence for Science and Engineering<br>School of Computer Science and Engineering, South China University of Technology</p>
+<p class="home__subtitle">Evolutionary Intelligence for Science and Engineering</p>
 
 <p class="home__lead">EIPI Lab develops intelligent algorithms for perception, decision-making, and optimization. We combine evolutionary computation, machine learning, and large language models to build interpretable models, solve hard optimization problems, and support scientific discovery. We also turn these methods into systems that run in industry. The group is led by <a href="https://jinghuizhong.com/">Prof. Jinghui Zhong</a>. Our name comes from Euler's identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.</p>
 
