@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-EIPI Lab studies intelligent perception and intelligent decision-making. We design new AI algorithms and turn them into working systems with industry partners. The lab has 8 high-performance GPU servers, with 24 RTX 4090 GPUs and 1,000 CPU cores. They support multimodal perception, deep learning model training, and fast project development.
+EIPI Lab studies intelligent perception and intelligent decision-making. We design new AI algorithms and turn them into working systems with industry partners.
 
 ## Research Directions
 
