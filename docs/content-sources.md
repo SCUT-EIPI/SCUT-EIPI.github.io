@@ -38,3 +38,8 @@ Unused template pages (including fictional CVs and generic privacy-policy text) 
 - The home page numbers (papers, Transactions articles, citations) and the awards belong to Prof. Zhong, not to the group, and the text says so.
 - Unused Academic Pages sample files (`files/`, sample comments, drafts, demo images) were deleted so they no longer appear in the published site or sitemap.
 - Affiliation, updated 2026-10-04: the owner confirmed that EIPI is a research team of South China University of Technology, and that the site may give the School of Computer Science and Engineering as the contact address. This replaces the earlier decision to omit the school.
+
+## Publications update, 2026-10-25
+
+- The owner supplied a list of 60 publications from 2022–2026. Of these, 15 were already on the Papers page; the remaining 45 were added under the existing research directions. Existing publications, the book, and both preprints were retained.
+- New bibliographic details and DOI links follow the owner-supplied list. Author initials are retained where full names were not supplied. The two NeurIPS 2026 papers are marked as accepted, as supplied by the owner; no DOI or paper URL was provided for either entry. These new metadata were not independently checked against publisher records.
