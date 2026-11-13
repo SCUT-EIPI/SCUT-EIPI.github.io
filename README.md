@@ -23,9 +23,10 @@ bundle exec jekyll serve
 
 ## Deployment
 
-Pushes to `master` trigger `.github/workflows/deploy.yml`. The workflow builds the site with Jekyll and deploys it to GitHub Pages. Check the build and deployment with:
+Run `.github/workflows/deploy.yml` manually from Actions, selecting `master`. Pushes do not trigger deployment. The workflow builds the site with Jekyll and deploys it to GitHub Pages. Check the build and deployment with:
 
 ```sh
+gh workflow run deploy.yml --ref master
 gh run list --workflow deploy.yml
 gh run view <run-id>
 ```
